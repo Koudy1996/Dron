@@ -52,7 +52,7 @@ Instalace zahrnuje motor s nezbytným příslušenstvím, turbo, reduktor a tlum
 
 ### Předběžné provozní srovnání při STEJNÉM výkonu 40 kW
 
-Při modelové hustotě benzínu 0,745 kg/l a BSFC 300 g/kWh je spotřeba **16,1 l/h**, a to **u libovolného motoru** se stejnou měrnou spotřebou. Objem motoru sám o sobě neurčuje spotřebu při stejném výkonu. U TSI to při pásmu 270–330 g/kWh odpovídá **14,5–17,7 l/h**. U Rotax 914 iS nelze bez konzistentní motorové mapy prohlásit konkrétní výhodu v cruise.
+Při modelové hustotě benzínu 0,745 kg/l a BSFC 300 g/kWh je spotřeba **16,1 l/h**, a to **u libovolného motoru** se stejnou měrnou spotřebou. Objem motoru sám o sobě neurčuje spotřebu při stejném výkonu. U TSI to při pásmu 270–330 g/kWh odpovídá **14,5–17,7 l/h**. U Rotaxů 914 a 915 iS nelze bez konzistentní motorové mapy prohlásit konkrétní výhodu v cruise.
 
 **Výškový a tepelný limit:** Zatím není prokázán dlouhodobý výkon ani spotřeba TSI v 5 000 m. Nelze zaměňovat špičkový výkon motoru s trvale udržitelným výkonem a výkonem po ztrátách reduktoru a vrtule. Pro plánované TSI úpravy počítat s novou kalibrací řídicí jednotky, mapou přeplňování, odvodem tepla, mazáním a zkouškami torzního systému.
 
